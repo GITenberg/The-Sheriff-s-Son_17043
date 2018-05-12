@@ -1,0 +1,38 @@
+_repo: The-Sheriff-s-Son_17043
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cue, Harold James
+    birthdate: 1887
+    deathdate: 1961
+    gutenberg_agent_id: '36428'
+    url: http://www.gutenberg.org/2009/agents/36428
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raine, William MacLeod
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '713'
+    url: http://www.gutenberg.org/2009/agents/713
+    wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
+description: Roy Beaudry was the son of a sheriff who had died with his guns blazing,
+  and Beaulah Rutherford was the fiery daughter of the outlaw who had murdered him.
+  In the lawless outpost, surviving often meant choosing sides, and hers had been
+  chosen for her.
+gutenberg_issued: '2005-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17043'
+  lccn: '22004738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Sheriff's Son
+url: http://www.gutenberg.org/ebooks/17043
